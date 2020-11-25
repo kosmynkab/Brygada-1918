@@ -1,5 +1,12 @@
 {
-.appVersion = "1286";
+.appVersion = "1346";
+DisplayStrings = (
+bdpqA,
+"AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adblgrave Ä/Adotbelow À/Ahookabove/Ainvertedbreve/Amacron/Aogonek Å/Aringacute ÃÆ/AEacute BC/Cacute/Ccaron Ç/Ccedillaacute/Ccircumflex/Cdotaccent D/DZcaron Ð/Dcaron/Dcroat/Ddotbelow/Dlinebelow/Dzcaron EÉ/Ebreve/Ecaron/Ecedillabreve Ê/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexhookabove/Ecircumflextilde/Edblgrave Ë/Edotaccent/Edotbelow È/Ehookabove/Einvertedbreve/Emacron/Emacronacute/Emacrongrave/Eogonek/Etilde FG/Gbreve/Gcaron/Gcircumflex/Gcommaaccent/Gdotaccent/Gmacron H/Hbar/Hbrevebelow/Hcircumflex/Hdotbelow IÍ/Ibreve/Icaron Î/Idblgrave Ï/Idieresisacute/Idotaccent/Idotbelow Ì/Ihookabove/Iinvertedbreve/Imacron/Iogonek/Itilde J/Jcircumflex K/Kcommaaccent L/LJ/Lacute/Lcaron/Lcommaaccent/Ldot/Ldotbelow/Lj/Llinebelow/Lslash M/Mdotbelow N/NJ/Nacute/Ncaron/Ncommaaccent/Ndotaccent/Ndotbelow/Eng/Nj/Nlinebelow ÑOÓ/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Omacronacute/Omacrongrave/Oogonek Ø/Oslashacute Õ/Otildeacute/Otildedieresis/Otildemacron/OE PÞQR/Racute/Rcaron/Rcommaaccent/Rdblgrave/Rdotbelow/Rinvertedbreve/Rlinebelow S/Sacute/Sacutedotaccent/Scaron/Scarondotaccent/Scedilla/Scircumflex/Scommaaccent/Sdotaccent/Sdotbelow/Sdotbelowdotaccent/Germandbls/Schwa T/Tbar/Tcaron/Tcedilla/Tcommaaccent/Tdotbelow/Tlinebelow UÚ/Ubreve/Ucaron Û/Udblgrave Ü/Udieresisacute/Udieresiscaron/Udieresisgrave/Udieresismacron/Udotbelow Ù/Uhookabove/Uhorn/Uhornacute/Uhorndotbelow/Uhorngrave/Uhornhookabove/Uhorntilde/Uhungarumlaut/Uinvertedbreve/Umacron/Umacrondieresis/Uogonek/Uring/Utilde/Utildeacute VW/Wacute/Wcircumflex/Wdieresis/Wgrave XYÝ/Ycircumflex/Ydieresis/Ydotaccent/Ydotbelow/Ygrave/Yhookabove/Ymacron/Ytilde Z/Zacute/Zcaron/Zdotaccent/Zdotbelow/K.ss01/Kcommaaccent.ss01/R.ss01/Racute.ss01/Rcaron.ss01/Rcommaaccent.ss01/Bsmall/Gsmall/Gsmallhook/Hsmall/Ismall/Lsmall/Nsmall/OEsmall/Rsmall/Rsmallinverted/Tsmall/Ysmall aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/alpha-latin/alphaturned-latin/amacron/aogonek å/aringacute ã/aturned æ/aeacute b/bhook/bidentalpercussive/bilabialclick/bilabialpercussive/bmiddletilde c/cacute/ccaron ç/ccedillaacute/ccircumflex/ccurl/cdotaccent/chi-latin/chook dð/dcaron/dcroat/ddotbelow/dezh/dhook/dlinebelow/dmiddletilde/dtail/dzaltone/dzcaron/dzcurl eé/ebreve/ecaron/ecedillabreve ê/ecircumflexacute/ecircumflexdotbelow/ecircumflexgrave/ecircumflexhookabove/ecircumflextilde/edblgrave ë/edotaccent/edotbelow è/ehookabove/einvertedbreve/emacron/emacronacute/emacrongrave/eogonek/eopen/eopenreversed/eopenreversedclosed/eopenreversedhook/ereversed/esh/etilde/schwa/schwahook/ezh f/fengdigraph/fmiddletilde g/gamma-latin/gbreve/gcaron/gcircumflex/gcommaaccent/gdotaccent/ghook/glottalstop/glottalstopreversed/glottalstopstroke/glottalstopstrokereversed/gmacron/gsingle h/hbar/hbrevebelow/hcircumflex/hdotbelow/henghook/hhook/hturned i/idotless í/ibreve/icaron î/idblgrave ï/idieresisacute/idotaccent/idotbelow ì/ihookabove/iinvertedbreve/imacron/iogonek/istroke/itilde j/jdotless/jcircumflex/jcrossedtail/jdotlessstroke/jdotlessstrokehook k/kcommaaccent/kgreenlandic/khook/kturned l/lacute/lbelt/lcaron/lcommaaccent/ldot/ldotbelow/lezh/lhookretroflex/lj/llinebelow/lmiddletilde/lsdigraph/lslash/lzdigraph m/mdotbelow/mhook/mlonglegturned/mmiddletilde/mturned n/nacute/ncaron/ncommaaccent/ndotaccent/ndotbelow/eng/nhookleft/nhookretroflex/nj/nlinebelow/nmiddletilde ñoó/obarred/obreve/ocaron ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/omacronacute/omacrongrave/oogonek/oopen ø/oslashacute õ/otildeacute/otildedieresis/otildemacron/oe p/phi-latin/phook þ/pmiddletilde q/qhook r/racute/ramshorn/rcaron/rcommaaccent/rdblgrave/rdotbelow/rfishhook/rfishhookmiddletilde/rhook/rhookturned/rinvertedbreve/rlinebelow/rlonglegturned/rmiddletilde/rturned s/sacute/sacutedotaccent/scaron/scarondotaccent/scedilla/scircumflex/scommaaccent/sdotaccent/sdotbelow/sdotbelowdotaccent ß/shook/smiddletilde t/tbar/tcaron/tccurl/tcedilla/tcommaaccent/tdieresis/tdotbelow/tesh/thook/tlinebelow/tmiddletilde/tretroflexhook/ts uú/ubar/ubreve/ucaron û/udblgrave ü/udieresisacute/udieresiscaron/udieresisgrave/udieresismacron/udotbelow ù/uhookabove/uhorn/uhornacute/uhorndotbelow/uhorngrave/uhornhookabove/uhorntilde/uhungarumlaut/uinvertedbreve/umacron/umacrondieresis/uogonek/upsilon-latin/uring/utilde/utildeacute v/vhook/vturned w/wacute/wcircumflex/wdieresis/wgrave/wturned xyý/ycircumflex/ydieresis/ydotaccent/ydotbelow/ygrave/yhookabove/ymacron/ytilde/yturned z/zacute/zcaron/zcurl/zdotaccent/zdotbelow/zmiddletilde/zretroflexhook/ae.001/ccedilla.001/eth.001/hbar.001/istroke.001/oslash.001/oe.001/f_b/f_f/f_f_b/f_f_h/f_f_i/f_f_k/f_f_l/f_h/f_i/f_k/f_l/fi/fl/a.sc/aacute.sc/abreve.sc/abreveacute.sc/abrevedotbelow.sc/abrevegrave.sc/abrevehookabove.sc/abrevetilde.sc/acircumflex.sc/acircumflexacute.sc/acircumflexdotbelow.sc/acircumflexgrave.sc/acircumflexhookabove.sc/acircumflextilde.sc/adieresis.sc/adotbelow.sc/agrave.sc/ahookabove.sc/amacron.sc/aogonek.sc/aring.sc/atilde.sc/ae.sc/b.sc/c.sc/cacute.sc/ccaron.sc/ccedilla.sc/cdotaccent.sc/d.sc/eth.sc/dcaron.sc/dcroat.sc/e.sc/eacute.sc/ecaron.sc/ecircumflex.sc/ecircumflexacute.sc/ecircumflexdotbelow.sc/ecircumflexgrave.sc/ecircumflexhookabove.sc/ecircumflextilde.sc/edieresis.sc/edotaccent.sc/edotbelow.sc/egrave.sc/ehookabove.sc/emacron.sc/eogonek.sc/etilde.sc/f.sc/g.sc/gbreve.sc/gcommaaccent.sc/gdotaccent.sc/h.sc/hbar.sc/i.sc/idotless.sc/iacute.sc/icircumflex.sc/idieresis.sc/idotaccent.sc/idotbelow.sc/igrave.sc/ihookabove.sc/imacron.sc/iogonek.sc/itilde.sc/j.sc/jdotless.sc/k.sc/kcommaaccent.sc/l.sc/lacute.sc/lcaron.sc/lcommaaccent.sc/lslash.sc/m.sc/n.sc/nacute.sc/ncaron.sc/ncommaaccent.sc/eng.sc/ntilde.sc/o.sc/oacute.sc/obreve.sc/ocircumflex.sc/ocircumflexacute.sc/ocircumflexdotbelow.sc/ocircumflexgrave.sc/ocircumflexhookabove.sc/ocircumflextilde.sc/odieresis.sc/odotbelow.sc/ograve.sc/ohookabove.sc/ohorn.sc/ohornacute.sc/ohorndotbelow.sc/ohorngrave.sc/ohornhookabove.sc/ohorntilde.sc/ohungarumlaut.sc/omacron.sc/oslash.sc/otilde.sc/oe.sc/p.sc/thorn.sc/q.sc/r.sc/racute.sc/rcaron.sc/rcommaaccent.sc/s.sc/sacute.sc/scaron.sc/scedilla.sc/scommaaccent.sc/germandbls.sc/t.sc/tbar.sc/tcaron.sc/tcedilla.sc/tcommaaccent.sc/u.sc/uacute.sc/ucircumflex.sc/udieresis.sc/udotbelow.sc/ugrave.sc/uhookabove.sc/uhorn.sc/uhornacute.sc/uhorndotbelow.sc/uhorngrave.sc/uhornhookabove.sc/uhorntilde.sc/uhungarumlaut.sc/umacron.sc/uogonek.sc/uring.sc/utilde.sc/v.sc/w.sc/wacute.sc/wcircumflex.sc/wdieresis.sc/wgrave.sc/x.sc/y.sc/yacute.sc/ycircumflex.sc/ydieresis.sc/ydotbelow.sc/ygrave.sc/yhookabove.sc/ytilde.sc/z.sc/zacute.sc/zcaron.sc/zdotaccent.sc ªº/clickalveolar/clickdental/clicklateral/clickretroflex/hmod.001/jmod.001/lmod.001/nmod.001/wmod.001/a.subs/b.subs/c.subs/d.subs/e.subs/f.subs/g.subs/h.subs/i.subs/j.subs/k.subs/l.subs/m.subs/n.subs/o.subs/p.subs/q.subs/r.subs/s.subs/t.subs/u.subs/v.subs/w.subs/x.subs/y.subs/z.subs/a.sups/b.sups/c.sups/d.sups/e.sups/f.sups/g.sups/h.sups/i.sups/j.sups/k.sups/l.sups/m.sups/n.sups/o.sups/p.sups/q.sups/r.sups/s.sups/t.sups/u.sups/v.sups/w.sups/x.sups/y.sups/z.sups/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Iegrave-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Iigrave-cy/Ka-cy/Kje-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Fita-cy/Izhitsa-cy/Ghestroke-cy/Zhedescender-cy/Kadescender-cy/Endescender-cy/Ustraight-cy/Ustraightstroke-cy/Hadescender-cy/Chedescender-cy/Shha-cy/Palochka-cy/Schwa-cy/Imacron-cy/Obarred-cy/Umacron-cy/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/iegrave-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/iigrave-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy/ia-cy/dje-cy/fita-cy/izhitsa-cy/ghestroke-cy/zhedescender-cy/kadescender-cy/endescender-cy/ustraight-cy/ustraightstroke-cy/hadescender-cy/chedescender-cy/shha-cy/palochka-cy/schwa-cy/imacron-cy/obarred-cy/umacron-cy/a-cy.sc/be-cy.sc/ve-cy.sc/ge-cy.sc/de-cy.sc/ie-cy.sc/io-cy.sc/zhe-cy.sc/ze-cy.sc/ii-cy.sc/iishort-cy.sc/ka-cy.sc/el-cy.sc/em-cy.sc/en-cy.sc/o-cy.sc/pe-cy.sc/er-cy.sc/es-cy.sc/te-cy.sc/u-cy.sc/ef-cy.sc/ha-cy.sc/che-cy.sc/tse-cy.sc/sha-cy.sc/shcha-cy.sc/softsign-cy.sc/hardsign-cy.sc/yeru-cy.sc/ereversed-cy.sc/iu-cy.sc/ia-cy.sc/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega/Alphatonos/Epsilontonos/Etatonos/Iotatonos/Omicrontonos/Upsilontonos/Omegatonos/Iotadieresis/Upsilondieresis/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega/iotatonos/iotadieresis/iotadieresistonos/upsilontonos/upsilondieresis/upsilondieresistonos/omicrontonos/omegatonos/alphatonos/epsilontonos/etatonos/lambda_nu/alpha.sc/beta.sc/gamma.sc/delta.sc/epsilon.sc/zeta.sc/eta.sc/theta.sc/iota.sc/kappa.sc/lambda.sc/mu.sc/nu.sc/xi.sc/omicron.sc/pi.sc/rho.sc/sigmafinal.sc/sigma.sc/tau.sc/upsilon.sc/phi.sc/chi.sc/psi.sc/omega.sc/iotatonos.sc/iotadieresis.sc/iotadieresistonos.sc/upsilontonos.sc/upsilondieresis.sc/upsilondieresistonos.sc/omicrontonos.sc/omegatonos.sc/alphatonos.sc/epsilontonos.sc/etatonos.sc 0123456789/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf/zero.tf/one.tf/two.tf/three.tf/four.tf/five.tf/six.tf/seven.tf/eight.tf/nine.tf/zero.tosf/one.tosf/two.tosf/three.tosf/four.tosf/five.tosf/six.tosf/seven.tosf/eight.tosf/nine.tosf/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior/zero.subs/one.subs/two.subs/three.subs/four.subs/five.subs/six.subs/seven.subs/eight.subs/nine.subs/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr/zerosuperior ¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior/zero.sups/one.sups/two.sups/three.sups/four.sups/five.sups/six.sups/seven.sups/eight.sups/nine.sups/fraction ½¼¾/oneeighth/threeeighths/fiveeighths/seveneighths/zero.sc/one.sc/two.sc/three.sc/four.sc/five.sc/six.sc/seven.sc/eight.sc/nine.sc .,:;/ellipsis !¡?¿·/bullet */dblverticalbar #///backslash/undertie/slash.case/backslash.case/periodcentered.loclCAT/parenleftinferior/parenrightinferior (){}[]/parenleft.case/parenright.case/braceleft.case/braceright.case/bracketleft.case/bracketright.case -­/endash/emdash/figuredash/horizontalbar/hyphentwo _/endash.case/emdash.case/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/guillemetleft.case/guillemetright.case/guilsinglleft.case/guilsinglright.case/exclam.sc/exclamdown.sc/question.sc/questiondown.sc/leftanglebracket-math/rightanglebracket-math/anoteleia/questiongreek/figurespace/hairspace/punctuationspace/space/nbspace/thinspace/zerowidthspace \015/cedi ¢/colonsign ¤$/dong/euro/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/bulletoperator/commercialMinusSign/divisionslash +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬^/emptyset/infinity/integral/Ohm/increment/product/summation/radical/partialdiff µ%/perthousand/upArrow/northEastArrow/rightArrow/southEastArrow/downArrow/southWestArrow/leftArrow/northWestArrow/leftRightArrow/upDownArrow/lozenge/leftBlackIndex/rightBlackIndex @&¶§©®/trademark °/minute/second |¦/dagger/literSign/daggerdbl/numero/estimated/quarternote-musical/note-musical/notedbl-musical/beamedsixteenthnotes-musical/gClef-musical/apostrophemod/commaturnedmod/doubleprimemod/firsttonechinese/fourthtonechinese/primemod/ringhalfleft/ringhalfright/secondtonechinese/verticallinelowmod/verticallinemod/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/dblgravecomb/breveinvertedcomb/commaturnedabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/commaaccentcomb/cedillacomb/ogonekcomb/brevebelowcomb/macronbelowcomb/strokeshortcomb/strokelongcomb ¨/dotaccent `´/hungarumlaut/circumflex/caron/breve/ring/tilde ¯¸/ogonek/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case/tildecomb.case/macroncomb.case/hookabovecomb.case/dblgravecomb.case/breveinvertedcomb.case/ogonekcomb.case/ogonek_short.case/tonos/tonos.case/dieresistonos/brevecomb-cy/brevecomb-cy.case/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb/brevecomb_acutecomb.case/brevecomb_gravecomb.case/brevecomb_hookabovecomb.case/brevecomb_tildecomb.case/circumflexcomb_acutecomb.case/circumflexcomb_gravecomb.case/circumflexcomb_hookabovecomb.case/circumflexcomb_tildecomb.case/slashshort.comb/_com_szeryf_caps/_com_O_caps/_com_szeryf_small/_com_n/_com_o_small/_com_small_serif_top/_com_brzuch_b/_com_szeryf_caps_long/_com_szeryf_small_long/_com_n_serif/czeksy_syr/sign_1/sign_2/sign_3/sign_4/_com_swash/_com_f_liga/_cyryl_descender/_com_ipa_hook/_com_leg_cyryl/_cyryl_descender.lc/NULL",
+"/Tbar a/alphaturned-latin/aturned/bilabialpercussive d/dezh/dhook/dtail/dzaltone/dzcurl/schwa/schwahook g/ghook/hturned/jdotlessstroke/jdotlessstrokehook/kturned/mturned/oopen q/qhook/rturned/ubar/wturned/yturned/istroke.001/hbar.sc/Gheupturn-cy/Ustraightstroke-cy/Obarred-cy/ef-cy/e-cy/ereversed-cy/ghestroke-cy/obarred-cy/nine.sups ¿/backslash.case »/guilsinglright/guillemetright.case/guilsinglright.case/questiondown.sc/kip/lira/peseta/peso £/won ¥/leftBlackIndex ©®/commaturnedabovecomb",
+"Zero/space Handles:\012BDGg/g.subs 3556/rightBlackIndex/rightBlackIndex \012\012Outline/space Order/space and/space Orientation:\012x/x.subs/lje-cy/lje-cy 035568889/eight.osf/eight.osf/eight.sups/eight.sups/eight.sc/eight.sc (()){{}}/braceleft.case/braceleft.case/braceright.case/braceright.case/leftanglebracket-math/leftanglebracket-math/rightanglebracket-math/rightanglebracket-math ©©®®/sign_1/sign_1/sign_2/sign_2 \012\012",
+"Æ"
+);
 classes = (
 {
 automatic = 1;
@@ -1544,8 +1551,9 @@ leftKerningGroup = A;
 unicode = 01FC;
 },
 {
+color = 0;
 glyphname = B;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:50 +0000";
 layers = (
 {
 anchors = (
@@ -2167,8 +2175,9 @@ rightKerningGroup = O;
 unicode = 010A;
 },
 {
+color = 0;
 glyphname = D;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:50 +0000";
 layers = (
 {
 anchors = (
@@ -3600,8 +3609,9 @@ rightMetricsKey = "=E*0.7";
 unicode = 0046;
 },
 {
+color = 0;
 glyphname = G;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:50 +0000";
 layers = (
 {
 anchors = (
@@ -9940,8 +9950,9 @@ rightKerningGroup = T;
 unicode = 0054;
 },
 {
+color = 0;
 glyphname = Tbar;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -14797,8 +14808,9 @@ rightKerningGroup = v;
 unicode = 028F;
 },
 {
+color = 0;
 glyphname = a;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -15666,8 +15678,9 @@ rightMetricsKey = "=d";
 unicode = 0251;
 },
 {
+color = 0;
 glyphname = "alphaturned-latin";
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -15892,8 +15905,9 @@ rightKerningGroup = n;
 unicode = 00E3;
 },
 {
+color = 0;
 glyphname = aturned;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -16546,8 +16560,9 @@ rightMetricsKey = "=O";
 unicode = 0298;
 },
 {
+color = 0;
 glyphname = bilabialpercussive;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -17211,8 +17226,9 @@ leftMetricsKey = "=c";
 unicode = 0188;
 },
 {
+color = 0;
 glyphname = d;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -17645,8 +17661,9 @@ rightKerningGroup = l;
 unicode = 1E0D;
 },
 {
+color = 0;
 glyphname = dezh;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -17834,8 +17851,9 @@ rightMetricsKey = "=lzdigraph";
 unicode = 02A4;
 },
 {
+color = 0;
 glyphname = dhook;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -18044,8 +18062,9 @@ leftKerningGroup = o;
 unicode = 1D6D;
 },
 {
+color = 0;
 glyphname = dtail;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -18174,8 +18193,9 @@ rightMetricsKey = "=nhookretroflex";
 unicode = 0256;
 },
 {
+color = 0;
 glyphname = dzaltone;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -18424,8 +18444,9 @@ rightKerningGroup = n;
 unicode = 01C6;
 },
 {
+color = 0;
 glyphname = dzcurl;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -20207,8 +20228,9 @@ rightKerningGroup = o;
 unicode = 1EBD;
 },
 {
+color = 0;
 glyphname = schwa;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -20236,8 +20258,9 @@ rightKerningGroup = o;
 unicode = 0259;
 },
 {
+color = 0;
 glyphname = schwahook;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -20725,8 +20748,9 @@ rightKerningGroup = f;
 unicode = 1D6E;
 },
 {
+color = 0;
 glyphname = g;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:50 +0000";
 layers = (
 {
 anchors = (
@@ -21265,8 +21289,9 @@ rightKerningGroup = o;
 unicode = 0121;
 },
 {
+color = 0;
 glyphname = ghook;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -22290,8 +22315,9 @@ rightMetricsKey = "=h";
 unicode = 0266;
 },
 {
+color = 0;
 glyphname = hturned;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -23362,8 +23388,9 @@ rightMetricsKey = "=i";
 unicode = 029D;
 },
 {
+color = 0;
 glyphname = jdotlessstroke;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -23397,8 +23424,9 @@ rightKerningGroup = j;
 unicode = 025F;
 },
 {
+color = 0;
 glyphname = jdotlessstrokehook;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -23980,8 +24008,9 @@ rightMetricsKey = "=k";
 unicode = 0199;
 },
 {
+color = 0;
 glyphname = kturned;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -25548,8 +25577,9 @@ rightMetricsKey = "=m";
 unicode = 1D6F;
 },
 {
+color = 0;
 glyphname = mturned;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -27746,8 +27776,9 @@ rightKerningGroup = o;
 unicode = 01EB;
 },
 {
+color = 0;
 glyphname = oopen;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -28599,8 +28630,9 @@ rightKerningGroup = o;
 unicode = 1D71;
 },
 {
+color = 0;
 glyphname = q;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -28682,8 +28714,9 @@ rightMetricsKey = "=n*0.5";
 unicode = 0071;
 },
 {
+color = 0;
 glyphname = qhook;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -29804,8 +29837,9 @@ rightKerningGroup = n;
 unicode = 1D72;
 },
 {
+color = 0;
 glyphname = rturned;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -32157,8 +32191,9 @@ rightKerningGroup = n;
 unicode = 00FA;
 },
 {
+color = 0;
 glyphname = ubar;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -34010,8 +34045,9 @@ rightKerningGroup = v;
 unicode = 1E81;
 },
 {
+color = 0;
 glyphname = wturned;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -34037,8 +34073,9 @@ width = 784;
 unicode = 028D;
 },
 {
+color = 0;
 glyphname = x;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 anchors = (
@@ -34826,8 +34863,9 @@ rightKerningGroup = n;
 unicode = 1EF9;
 },
 {
+color = 0;
 glyphname = yturned;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -36083,8 +36121,9 @@ leftKerningGroup = l;
 rightKerningGroup = n;
 },
 {
+color = 0;
 glyphname = istroke.001;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -39616,8 +39655,9 @@ rightKerningGroup = h.sc;
 rightMetricsKey = "=H";
 },
 {
+color = 0;
 glyphname = hbar.sc;
-lastChange = "2019-09-11 19:35:37 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -45942,8 +45982,9 @@ leftMetricsKey = "=n";
 rightKerningGroup = sub_letters;
 },
 {
+color = 0;
 glyphname = g.subs;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:50 +0000";
 layers = (
 {
 components = (
@@ -46804,8 +46845,9 @@ rightKerningGroup = sub_letters;
 rightMetricsKey = "=v*1.5";
 },
 {
+color = 0;
 glyphname = x.subs;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 components = (
@@ -51925,8 +51967,9 @@ rightKerningGroup = T;
 unicode = 0403;
 },
 {
+color = 0;
 glyphname = "Gheupturn-cy";
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -56052,8 +56095,9 @@ width = 657;
 unicode = 04AE;
 },
 {
+color = 0;
 glyphname = "Ustraightstroke-cy";
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -56489,8 +56533,9 @@ width = 766;
 unicode = 04E2;
 },
 {
+color = 0;
 glyphname = "Obarred-cy";
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -60167,8 +60212,9 @@ rightKerningGroup = n;
 unicode = 045E;
 },
 {
+color = 0;
 glyphname = "ef-cy";
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 background = {
@@ -61491,8 +61537,9 @@ rightMetricsKey = "=en-cy";
 unicode = 044B;
 },
 {
+color = 0;
 glyphname = "lje-cy";
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -61847,8 +61894,9 @@ rightKerningGroup = o;
 unicode = 0455;
 },
 {
+color = 0;
 glyphname = "e-cy";
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -61882,8 +61930,9 @@ rightKerningGroup = o;
 unicode = 0454;
 },
 {
+color = 0;
 glyphname = "ereversed-cy";
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -62919,8 +62968,9 @@ rightMetricsKey = r;
 unicode = 0475;
 },
 {
+color = 0;
 glyphname = "ghestroke-cy";
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -63774,8 +63824,9 @@ rightKerningGroup = u;
 unicode = 04E3;
 },
 {
+color = 0;
 glyphname = "obarred-cy";
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -73866,8 +73917,9 @@ leftKerningGroup = y.sc;
 rightKerningGroup = h.sc;
 },
 {
+color = 0;
 glyphname = zero;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 background = {
@@ -74324,8 +74376,9 @@ width = 619;
 unicode = 0032;
 },
 {
+color = 0;
 glyphname = three;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:50 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -74812,8 +74865,9 @@ leftKerningGroup = A;
 unicode = 0034;
 },
 {
+color = 0;
 glyphname = five;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:50 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -75147,8 +75201,9 @@ width = 600;
 unicode = 0035;
 },
 {
+color = 0;
 glyphname = six;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:50 +0000";
 layers = (
 {
 background = {
@@ -75543,8 +75598,9 @@ rightKerningGroup = V;
 unicode = 0037;
 },
 {
+color = 0;
 glyphname = eight;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 background = {
@@ -75800,8 +75856,9 @@ rightMetricsKey = "=zero";
 unicode = 0038;
 },
 {
+color = 0;
 glyphname = nine;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -76951,8 +77008,9 @@ rightKerningGroup = v;
 rightMetricsKey = "=q";
 },
 {
+color = 0;
 glyphname = eight.osf;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -80620,8 +80678,9 @@ source = seven;
 };
 },
 {
+color = 0;
 glyphname = eight.sups;
-lastChange = "2020-09-26 21:02:56 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "37DD2CA1-C758-4BBE-932B-6884A881B1A3";
@@ -80828,8 +80887,9 @@ source = eight;
 };
 },
 {
+color = 0;
 glyphname = nine.sups;
-lastChange = "2020-09-26 21:02:56 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -82314,8 +82374,9 @@ source = seven;
 };
 },
 {
+color = 0;
 glyphname = eight.sc;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "37DD2CA1-C758-4BBE-932B-6884A881B1A3";
@@ -83385,8 +83446,9 @@ rightMetricsKey = "=period";
 unicode = 003F;
 },
 {
+color = 0;
 glyphname = questiondown;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -84022,8 +84084,9 @@ rightKerningGroup = V;
 rightMetricsKey = "=slash";
 },
 {
+color = 0;
 glyphname = backslash.case;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -84130,8 +84193,9 @@ width = 600;
 unicode = 208E;
 },
 {
+color = 0;
 glyphname = parenleft;
-lastChange = "2020-09-26 21:05:50 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -84202,8 +84266,9 @@ rightMetricsKey = "=bracketleft";
 unicode = 0028;
 },
 {
+color = 0;
 glyphname = parenright;
-lastChange = "2020-09-26 21:05:50 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -84275,8 +84340,9 @@ rightMetricsKey = "=parenleft";
 unicode = 0029;
 },
 {
+color = 0;
 glyphname = braceleft;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -84398,8 +84464,9 @@ width = 310;
 unicode = 007B;
 },
 {
+color = 0;
 glyphname = braceright;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -84748,8 +84815,9 @@ leftMetricsKey = "=|parenleft.case";
 rightMetricsKey = "=|parenleft.case";
 },
 {
+color = 0;
 glyphname = braceleft.case;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -84872,8 +84940,9 @@ leftMetricsKey = "=braceleft";
 rightMetricsKey = "=braceleft";
 },
 {
+color = 0;
 glyphname = braceright.case;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -86060,8 +86129,9 @@ rightMetricsKey = "=guilsinglleft";
 unicode = 00AB;
 },
 {
+color = 0;
 glyphname = guillemetright;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -86134,8 +86204,9 @@ rightKerningGroup = sign_middle_bottom;
 unicode = 2039;
 },
 {
+color = 0;
 glyphname = guilsinglright;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -86323,8 +86394,9 @@ leftKerningGroup = sign_middle_bottom;
 rightKerningGroup = sign_middle_bottom;
 },
 {
+color = 0;
 glyphname = guillemetright.case;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -86383,8 +86455,9 @@ rightKerningGroup = sign_middle_bottom;
 rightMetricsKey = "=guilsinglleft";
 },
 {
+color = 0;
 glyphname = guilsinglright.case;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -86703,8 +86776,9 @@ rightKerningGroup = v;
 rightMetricsKey = "=question";
 },
 {
+color = 0;
 glyphname = questiondown.sc;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -86731,8 +86805,9 @@ leftMetricsKey = "=|question.sc";
 rightMetricsKey = "=|question.sc";
 },
 {
+color = 0;
 glyphname = "leftanglebracket-math";
-lastChange = "2020-09-26 21:05:50 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -86788,8 +86863,9 @@ rightMetricsKey = "=parenleft";
 unicode = 27E8;
 },
 {
+color = 0;
 glyphname = "rightanglebracket-math";
-lastChange = "2020-09-26 21:05:50 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -87928,8 +88004,9 @@ rightMetricsKey = "=G";
 unicode = 20B2;
 },
 {
+color = 0;
 glyphname = kip;
-lastChange = "2020-09-27 07:46:26 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -87961,8 +88038,9 @@ width = 721;
 unicode = 20AD;
 },
 {
+color = 0;
 glyphname = lira;
-lastChange = "2020-09-27 07:37:43 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -88356,8 +88434,9 @@ width = 727;
 unicode = 20A6;
 },
 {
+color = 0;
 glyphname = peseta;
-lastChange = "2020-09-27 08:08:51 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -88390,8 +88469,9 @@ rightKerningGroup = F;
 unicode = 20A7;
 },
 {
+color = 0;
 glyphname = peso;
-lastChange = "2020-09-27 07:43:02 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -88708,8 +88788,9 @@ rightMetricsKey = "=R";
 unicode = 20B9;
 },
 {
+color = 0;
 glyphname = sterling;
-lastChange = "2020-09-27 07:37:39 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -88827,8 +88908,9 @@ rightMetricsKey = "=E";
 unicode = 00A3;
 },
 {
+color = 0;
 glyphname = won;
-lastChange = "2020-09-27 07:44:54 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -88864,8 +88946,9 @@ rightMetricsKey = "=W";
 unicode = 20A9;
 },
 {
+color = 0;
 glyphname = yen;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -91780,8 +91863,9 @@ rightMetricsKey = "=I";
 unicode = 25CA;
 },
 {
+color = 0;
 glyphname = leftBlackIndex;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 components = (
@@ -91809,8 +91893,9 @@ rightMetricsKey = "=|rightBlackIndex";
 unicode = 261A;
 },
 {
+color = 0;
 glyphname = rightBlackIndex;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:50 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -92740,8 +92825,9 @@ rightMetricsKey = "=s";
 unicode = 00A7;
 },
 {
+color = 0;
 glyphname = copyright;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 components = (
@@ -92843,8 +92929,9 @@ rightMetricsKey = "=O";
 unicode = 00A9;
 },
 {
+color = 0;
 glyphname = registered;
-lastChange = "2019-09-09 14:38:03 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 components = (
@@ -95330,8 +95417,9 @@ width = 270;
 unicode = 0311;
 },
 {
+color = 0;
 glyphname = commaturnedabovecomb;
-lastChange = "2018-11-01 09:45:16 +0000";
+lastChange = "2020-11-25 15:06:44 +0000";
 layers = (
 {
 anchors = (
@@ -99985,8 +100073,9 @@ width = 127;
 );
 },
 {
+color = 0;
 glyphname = sign_1;
-lastChange = "2018-03-31 15:48:15 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
@@ -100071,8 +100160,9 @@ width = 610;
 );
 },
 {
+color = 0;
 glyphname = sign_2;
-lastChange = "2018-03-31 15:48:19 +0000";
+lastChange = "2020-11-25 15:07:47 +0000";
 layers = (
 {
 layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
