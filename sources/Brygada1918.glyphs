@@ -67,14 +67,16 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
+
 languagesystem latn dflt;
-languagesystem latn ROM;
-languagesystem latn MOL;
+languagesystem latn AZE;
+languagesystem latn CRT;
 languagesystem latn KAZ;
 languagesystem latn TAT;
 languagesystem latn TRK;
-languagesystem latn CRT;
-languagesystem latn AZE;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
 ";
 name = Languagesystems;
 }
@@ -149,33 +151,48 @@ name = ccmp;
 },
 {
 automatic = 1;
-code = "script latn;
-language ROM;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language MOL;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language KAZ;
-sub i by idotaccent;
-language TAT;
-sub i by idotaccent;
-language TRK;
-sub i by idotaccent;
-language CRT;
-sub i by idotaccent;
-language AZE;
-sub i by idotaccent;
+code = "lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	language CRT;
+	language KAZ;
+	language TAT;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+
+lookup locl_latn_2 {
+	script latn;
+	language CAT;
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT;
+} locl_latn_2;
 ";
 name = locl;
 },
 {
 automatic = 1;
-code = "sub parenleft by parenleftinferior;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
 sub parenright by parenrightinferior;
 sub a by a.subs;
 sub b by b.subs;
@@ -203,22 +220,22 @@ sub w by w.subs;
 sub x by x.subs;
 sub y by y.subs;
 sub z by z.subs;
-sub zero by zero.subs;
-sub one by one.subs;
-sub two by two.subs;
-sub three by three.subs;
-sub four by four.subs;
-sub five by five.subs;
-sub six by six.subs;
-sub seven by seven.subs;
-sub eight by eight.subs;
-sub nine by nine.subs;
 ";
 name = subs;
 },
 {
 automatic = 1;
-code = "sub parenleft by parenleftinferior;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
 sub parenright by parenrightinferior;
 sub a by a.subs;
 sub b by b.subs;
@@ -246,24 +263,21 @@ sub w by w.subs;
 sub x by x.subs;
 sub y by y.subs;
 sub z by z.subs;
-sub zero by zero.subs;
-sub one by one.subs;
-sub two by two.subs;
-sub three by three.subs;
-sub four by four.subs;
-sub five by five.subs;
-sub six by six.subs;
-sub seven by seven.subs;
-sub eight by eight.subs;
-sub nine by nine.subs;
 ";
 name = sinf;
 },
 {
 automatic = 1;
-code = "sub one by onesuperior;
+code = "sub zero by zerosuperior;
+sub one by onesuperior;
 sub two by twosuperior;
 sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
 sub a by a.sups;
 sub b by b.sups;
 sub c by c.sups;
@@ -290,13 +304,6 @@ sub w by w.sups;
 sub x by x.sups;
 sub y by y.sups;
 sub z by z.sups;
-sub zero by zero.sups;
-sub four by four.sups;
-sub five by five.sups;
-sub six by six.sups;
-sub seven by seven.sups;
-sub eight by eight.sups;
-sub nine by nine.sups;
 ";
 name = sups;
 },
@@ -349,6 +356,7 @@ name = frac;
 automatic = 1;
 code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
 ";
 name = ordn;
 },
@@ -529,6 +537,7 @@ sub Eng by eng.sc;
 sub Ntilde by ntilde.sc;
 sub O by o.sc;
 sub Oacute by oacute.sc;
+sub Obreve by obreve.sc;
 sub Ocircumflex by ocircumflex.sc;
 sub Ocircumflexacute by ocircumflexacute.sc;
 sub Ocircumflexdotbelow by ocircumflexdotbelow.sc;
@@ -968,6 +977,8 @@ sub ringcomb by ringcomb.case;
 sub tildecomb by tildecomb.case;
 sub macroncomb by macroncomb.case;
 sub hookabovecomb by hookabovecomb.case;
+sub dblgravecomb by dblgravecomb.case;
+sub breveinvertedcomb by breveinvertedcomb.case;
 sub ogonekcomb by ogonekcomb.case;
 sub tonos by tonos.case;
 sub brevecomb-cy by brevecomb-cy.case;
@@ -1014,9 +1025,11 @@ name = case;
 },
 {
 automatic = 1;
-code = "sub f f i by f_f_i;
+code = "lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
 sub f f by f_f;
-sub f i by f_i;
+sub f i by fi;
 sub f l by fl;
 ";
 name = liga;
@@ -40762,7 +40775,7 @@ position = "{140, 460}";
 );
 components = (
 {
-name = f_i;
+name = fi;
 transform = "{1, 0, 0, 1, 310, 0}";
 }
 );
@@ -40815,8 +40828,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"350 425 LINE",
-"350 460 LINE",
+"370 425 LINE",
+"370 460 LINE",
 "40 460 LINE",
 "40 425 LINE"
 );
@@ -40850,7 +40863,7 @@ position = "{135, 480}";
 );
 components = (
 {
-name = f_i;
+name = fi;
 transform = "{1, 0, 0, 1, 315, 0}";
 }
 );
