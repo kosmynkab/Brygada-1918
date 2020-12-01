@@ -37,6 +37,26 @@ value = 1;
 {
 name = "Variable Font Origin";
 value = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+400 = 80;
+500 = 95;
+600 = 110;
+700 = 145;
+};
+};
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2018-11-11 10:40:20 +0000";
@@ -1188,6 +1208,7 @@ paths = (
 {
 closed = 1;
 nodes = (
+"205 0 LINE",
 "205 35 LINE",
 "121 35 LINE",
 "111 45 LINE",
@@ -1204,17 +1225,16 @@ nodes = (
 "320 670 LINE",
 "58 35 LINE",
 "0 35 LINE",
-"0 0 LINE",
-"205 0 LINE"
+"0 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"169 220 LINE",
 "495 220 LINE",
 "495 255 LINE",
-"169 255 LINE"
+"169 255 LINE",
+"169 220 LINE"
 );
 }
 );
@@ -113319,6 +113339,15 @@ instanceInterpolations = {
 "CF31647D-EA7E-42DE-ACE7-E9318D6117AA" = 1;
 };
 name = Regular;
+},
+{
+interpolationWeight = 95;
+instanceInterpolations = {
+"37DD2CA1-C758-4BBE-932B-6884A881B1A3" = 0.23077;
+"CF31647D-EA7E-42DE-ACE7-E9318D6117AA" = 0.76923;
+};
+name = Medium;
+weightClass = Medium;
 },
 {
 interpolationWeight = 110;
