@@ -1,5 +1,8 @@
 {
 .appVersion = "1350";
+DisplayStrings = (
+E
+);
 classes = (
 {
 automatic = 1;
@@ -3718,7 +3721,7 @@ nodes = (
 "366 35 CURVE SMOOTH",
 "230 35 LINE",
 "225 40 LINE",
-"225 375 LINE",
+"225 343 LINE",
 "180 330 LINE",
 "328 330 LINE SMOOTH",
 "385 330 OFFCURVE",
@@ -3731,7 +3734,7 @@ nodes = (
 "385 365 OFFCURVE",
 "328 365 CURVE SMOOTH",
 "180 365 LINE",
-"225 320 LINE",
+"225 354 LINE",
 "225 630 LINE",
 "230 635 LINE",
 "356 635 LINE SMOOTH",
