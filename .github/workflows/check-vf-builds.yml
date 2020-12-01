@@ -3,12 +3,12 @@ name: Fontbakery CI — variable fonts
 on: 
   push:
     branches: 
-    - master
+    - main
     paths:
     - sources/**
   pull_request:
     branches: 
-    - master
+    - main
     paths:
     - sources/**
 
