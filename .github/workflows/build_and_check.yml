@@ -1,4 +1,4 @@
-name: Fontbakery CI — variable fonts
+name: Build and Check
 
 on: 
   push:
@@ -43,7 +43,7 @@ jobs:
       - name: Upload Fonts
         uses: actions/upload-artifact@v2
         with:
-          name: fonts
+          name: Brygada1918_Fonts
           path: fonts/
       - name: Font Bakery CI VF
         uses: f-actions/font-bakery@v1
