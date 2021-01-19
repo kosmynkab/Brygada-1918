@@ -40,6 +40,11 @@ jobs:
       - name: Build fonts
         id: build_fonts
         run: gftools builder sources/config.yaml
+      - name: Upload Fonts
+        uses: actions/upload-artifact@v2
+        with:
+          name: fonts
+          path: fonts/
       - name: Font Bakery CI VF
         uses: f-actions/font-bakery@v1
         with:
@@ -47,9 +52,3 @@ jobs:
           subcmd: "check-googlefonts"
           args: "-C --succinct --loglevel WARN"
           path: "fonts/variable/*.ttf"
-      - name: Upload Fonts
-        if: steps.build_fonts.outputs.files_exists == 'true'
-        uses: actions/upload-artifact@v1
-        with:
-          name: fonts
-          path: fonts/
