@@ -6,69 +6,70 @@
 #
 absl-py==0.11.0           # via gftools
 appdirs==1.4.4            # via fs
-attrs==20.3.0             # via fontmake, ufolib2
-beautifulsoup4==4.9.3     # via fontbakery
-beziers==0.1.0            # via fontbakery
-booleanoperations==0.9.0  # via fontmake, ufo2ft
+attrs==20.3.0             # via cattrs, fontmake, statmake, ufolib2
+babelfont==0.4.1          # via gftools
+booleanoperations==0.9.0  # via fontmake, fontparts, ufo2ft
+brotli==1.0.9             # via gftools
+browserstack-local==1.2.2  # via gftools
 cached-property==1.5.2    # via pygit2
-certifi==2020.11.8        # via requests
+cattrs==1.1.2             # via statmake
+certifi==2020.12.5        # via requests
 cffi==1.14.4              # via pygit2
 cffsubr==0.2.7            # via ufo2ft
-chardet==3.0.4            # via requests
+chardet==4.0.0            # via requests
 click==7.1.2              # via flask
-commandlines==0.4.1       # via ufolint
-compreffor==0.5.0         # via ufo2ft
+compreffor==0.5.1         # via ufo2ft
 cu2qu==1.6.7              # via fontmake, ufo2ft
-defcon==0.7.2             # via fontbakery
-deprecated==1.2.10        # via pygithub
+defcon[pens]==0.7.2       # via babelfont, fontparts
+deprecated==1.2.11        # via pygithub
 flask==1.1.2              # via gftools
-font-v==1.0.5             # via fontbakery
-fontbakery==0.7.33        # via -r requirements.in
-fontmake==2.2.1           # via -r requirements.in
-fontmath==0.6.0           # via fontmake
-fonttools[lxml,ufo,unicode]==4.17.1  # via booleanoperations, cffsubr, compreffor, cu2qu, defcon, font-v, fontbakery, fontmake, fontmath, gftools, glyphslib, ufo2ft, ufolib2, ufolint, vttlib
-fs==2.4.11                # via fonttools
-gftools==0.5.2            # via -r requirements.in
-gitdb==4.0.5              # via gitpython
-gitpython==3.1.11         # via font-v
-glyphslib==5.2.0          # via fontmake, gftools
+fontmake==2.3.0           # via gftools
+fontmath==0.6.0           # via fontmake, fontparts
+fontparts==0.9.7          # via babelfont
+fontpens==0.2.4           # via defcon
+fonttools[lxml,ufo,unicode]==4.18.2  # via babelfont, booleanoperations, cffsubr, compreffor, cu2qu, defcon, fontmake, fontmath, fontparts, gftools, glyphslib, statmake, ufo2ft, ufolib2, vttlib
+fs==2.4.12                # via fonttools
+gftools==0.6.1            # via -r requirements.in
+glyphslib==5.3.1          # via babelfont, fontmake, gftools
 idna==2.10                # via requests
+importlib-metadata==1.7.0  # via statmake
 itsdangerous==1.1.0       # via flask
 jinja2==2.11.2            # via flask
-lxml==4.6.2               # via fontbakery, fonttools
+lxml==4.6.2               # via fonttools
 markupsafe==1.1.1         # via jinja2
-opentype-sanitizer==8.1.0  # via fontbakery, gftools
-pillow==8.0.1             # via gftools
-pip-api==0.0.17           # via fontbakery
-protobuf==3.14.0          # via fontbakery, gftools
-pyclipper==1.2.0          # via beziers, booleanoperations
+opentype-sanitizer==8.1.3.post1  # via gftools
+pillow==8.1.0             # via gftools, pybrowserstack-screenshots
+protobuf==3.14.0          # via gftools
+psutil==5.8.0             # via browserstack-local
+pybrowserstack-screenshots==0.1  # via gftools
+pyclipper==1.2.1          # via booleanoperations
 pycparser==2.20           # via cffi
 pygit2==1.4.0             # via gftools
-pygithub==1.54            # via gftools
+pygithub==1.54.1          # via gftools
 pyjwt==1.7.1              # via pygithub
 pyparsing==2.4.7          # via vttlib
 python-dateutil==2.8.1    # via strictyaml
-pytz==2020.4              # via fs
-requests==2.24.0          # via fontbakery, gftools, pygithub
+pytz==2020.5              # via fs
+pyyaml==5.3.1             # via gftools
+requests==2.25.1          # via gftools, pybrowserstack-screenshots, pygithub
 ruamel.yaml.clib==0.2.2   # via ruamel.yaml
 ruamel.yaml==0.16.12      # via strictyaml
+simplejson==3.17.2        # via pybrowserstack-screenshots
 six==1.15.0               # via absl-py, fs, protobuf, python-dateutil
-smmap==3.0.4              # via gitdb
-soupsieve==2.0.1          # via beautifulsoup4
-strictyaml==1.1.1         # via gftools
+statmake==0.3.0           # via gftools
+strictyaml==1.3.2         # via gftools
 tabulate==0.8.7           # via gftools
-ttfautohint-py==0.4.3     # via -r requirements.in, fontbakery
+ttfautohint-py==0.4.3     # via gftools
 typing-extensions==3.7.4.3  # via ufolib2
-ufo2ft[cffsubr]==2.18.1   # via fontmake
-ufolib2==0.10.0           # via fontmake, glyphslib, vttlib
-ufolint==1.1.1            # via fontbakery
+ufo2ft[cffsubr]==2.19.1   # via fontmake
+ufolib2==0.11.1           # via fontmake, glyphslib, vttlib
 unicodedata2==13.0.0.post2  # via fonttools
-unidecode==1.1.1          # via fontbakery, gftools
-urllib3==1.25.11          # via requests
+unidecode==1.1.2          # via gftools
+urllib3==1.26.2           # via requests
 vttlib==0.9.1.post2       # via gftools
 werkzeug==1.0.1           # via flask
 wrapt==1.12.1             # via deprecated
+zipp==3.4.0               # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
-# pip
 # setuptools
