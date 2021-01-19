@@ -1,5 +1,8 @@
 {
 .appVersion = "1352";
+DisplayStrings = (
+"/tbar"
+);
 classes = (
 {
 automatic = 1;
