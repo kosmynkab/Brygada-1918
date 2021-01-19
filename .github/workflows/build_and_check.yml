@@ -40,15 +40,15 @@ jobs:
       - name: Build fonts
         id: build_fonts
         run: gftools builder sources/config.yaml
-      - name: Upload Fonts
-        uses: actions/upload-artifact@v2
-        with:
-          name: Brygada1918_Fonts
-          path: fonts/
       - name: Font Bakery CI VF
         uses: f-actions/font-bakery@v1
         with:
           version: "latest"
           subcmd: "check-googlefonts"
-          args: "-C --succinct --loglevel WARN"
+          args: "-C --succinct --loglevel WARN --ghmarkdown fonts/report.md"
           path: "fonts/variable/*.ttf"
+      - name: Upload Fonts
+        uses: actions/upload-artifact@v2
+        with:
+          name: Brygada1918_Fonts
+          path: fonts/
