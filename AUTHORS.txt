@@ -5,6 +5,7 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
+Capitalics Warsaw Type Foundry <fonts@capitalics.wtf>
 Mateusz Machalski <info@machalski.wtf>
 Borys Kosmynka <borys@kosmynka.com>
 Ania Wieluńska <ania.wielunska@gmail.com>
