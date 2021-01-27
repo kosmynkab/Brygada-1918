@@ -14,10 +14,10 @@ Thanks to support of Google Brygada 1918 was further expanded in 2020 with Vietn
 Brygada 1918 was a collaborative project of Mateusz Machalski, Borys Kosmynka, Ania Wieluńska, and Przemysław Hoffer.
 
 Copyright
-Copyright (c) 2018, Mateusz Machalski (info@machalski.wtf), Borys Kosmynka (info@kosmynka.com), Przemysław Hoffer, Ania Wieluńska
+Copyright 2018 Mateusz Machalski (info@machalski.wtf), Borys Kosmynka (info@kosmynka.com), Przemysław Hoffer, Ania Wieluńska.
 
 License
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
 
 Links
 Brygada 1918 on Google Fonts
