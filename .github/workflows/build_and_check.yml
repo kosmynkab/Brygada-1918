@@ -1,4 +1,4 @@
-name: Fontbakery CI — variable fonts
+name: Build and Check
 
 on: 
   push:
@@ -38,11 +38,17 @@ jobs:
           update-wheel: "true"
           update-setuptools: "true"
       - name: Build fonts
-        run: sources/build.sh
+        id: build_fonts
+        run: gftools builder sources/config.yaml
       - name: Font Bakery CI VF
         uses: f-actions/font-bakery@v1
         with:
           version: "latest"
           subcmd: "check-googlefonts"
-          args: "-C --succinct --loglevel WARN"
+          args: "-C --succinct --loglevel WARN --ghmarkdown fonts/report.md"
           path: "fonts/variable/*.ttf"
+      - name: Upload Fonts
+        uses: actions/upload-artifact@v2
+        with:
+          name: Brygada1918_Fonts
+          path: fonts/
