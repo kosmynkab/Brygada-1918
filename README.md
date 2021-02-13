@@ -1,4 +1,4 @@
-<h1>Brygada-1918</h1>
+<h1>Brygada 1918</h1>
 
 <h5>Description</h5>
 Brygada 1918 is a digital revival project created for the celebration of 100 years of independance of the Republic of Poland in 2018. The typeface is based on the catalogue entry of the National Type Foundry from 1954 and a set of matrices found at the Book Arts Museum by mr. Janusz Tryzno in 2016. The original styles included Regular, Italics, and Bold in a range of sizes.
