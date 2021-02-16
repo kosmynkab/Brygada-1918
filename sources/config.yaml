@@ -1,6 +1,6 @@
     sources:
       - Brygada1918.glyphs
+      - Brygada1918-Italic.glyphs
     axisOrder:
       - wght
-    outputDir: "../fonts"
     familyName: Brygada 1918
