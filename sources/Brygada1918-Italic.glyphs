@@ -111098,7 +111098,7 @@ instanceInterpolations = {
 };
 isItalic = 1;
 linkStyle = Medium;
-name = "Medium italic";
+name = "Medium Italic";
 weightClass = Medium;
 },
 {
@@ -111119,7 +111119,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-name = "Bold italic";
+name = "Bold Italic";
 weightClass = Bold;
 }
 );
