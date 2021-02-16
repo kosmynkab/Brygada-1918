@@ -111091,10 +111091,10 @@ isItalic = 1;
 name = Italic;
 },
 {
-interpolationWeight = 110;
+interpolationWeight = 95;
 instanceInterpolations = {
-"37DD2CA1-C758-4BBE-932B-6884A881B1A3" = 0.46154;
-"CF31647D-EA7E-42DE-ACE7-E9318D6117AA" = 0.53846;
+"37DD2CA1-C758-4BBE-932B-6884A881B1A3" = 0.23077;
+"CF31647D-EA7E-42DE-ACE7-E9318D6117AA" = 0.76923;
 };
 isItalic = 1;
 linkStyle = Medium;
