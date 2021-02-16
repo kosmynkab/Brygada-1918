@@ -1,9 +1,5 @@
 {
 .appVersion = "3064";
-DisplayStrings = (
-"/_cyryl_descender.lc/chedescender-cy",
-"/doubleprimemod"
-);
 classes = (
 {
 automatic = 1;
@@ -40814,6 +40810,10 @@ name = bottom;
 position = "{543, 0}";
 },
 {
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
 name = top;
 position = "{607, 460}";
 }
@@ -40929,6 +40929,10 @@ position = "{154, 350}";
 {
 name = bottom;
 position = "{610, 0}";
+},
+{
+name = caret_1;
+position = "{288.333, 0}";
 },
 {
 name = top;
@@ -41047,6 +41051,12 @@ color = 10;
 glyphname = f_f;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41060,6 +41070,12 @@ layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
 width = 566;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41083,6 +41099,16 @@ color = 10;
 glyphname = f_f_b;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
+name = caret_2;
+position = "{576.667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41096,6 +41122,16 @@ layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
 width = 1124;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
+name = caret_2;
+position = "{576.667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41118,6 +41154,16 @@ color = 10;
 glyphname = f_f_h;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
+name = caret_2;
+position = "{576.667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41131,6 +41177,16 @@ layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
 width = 1141;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
+name = caret_2;
+position = "{576.667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41153,6 +41209,16 @@ color = 10;
 glyphname = f_f_i;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
+name = caret_2;
+position = "{576.667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41166,6 +41232,16 @@ layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
 width = 865;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
+name = caret_2;
+position = "{576.667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41187,6 +41263,16 @@ color = 10;
 glyphname = f_f_k;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
+name = caret_2;
+position = "{576.667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41200,6 +41286,16 @@ layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
 width = 1111;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
+name = caret_2;
+position = "{576.667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41222,6 +41318,16 @@ color = 10;
 glyphname = f_f_l;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
+name = caret_2;
+position = "{576.667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41235,6 +41341,16 @@ layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
 width = 866;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
+name = caret_2;
+position = "{576.667, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -41264,6 +41380,10 @@ position = "{160, 335}";
 {
 name = bottom;
 position = "{539, 0}";
+},
+{
+name = caret_1;
+position = "{288.333, 0}";
 },
 {
 name = center;
@@ -41383,6 +41503,10 @@ position = "{154, 350}";
 {
 name = bottom;
 position = "{575, 0}";
+},
+{
+name = caret_1;
+position = "{288.333, 0}";
 },
 {
 name = center;
@@ -41507,6 +41631,10 @@ anchors = (
 {
 name = bottom;
 position = "{443, 0}";
+},
+{
+name = caret_1;
+position = "{288.333, 0}";
 },
 {
 name = ogonek;
@@ -41669,6 +41797,10 @@ name = bottom;
 position = "{464, 0}";
 },
 {
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
 name = ogonek;
 position = "{526, 0}";
 },
@@ -41806,6 +41938,10 @@ name = bottom;
 position = "{530, 0}";
 },
 {
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
 name = top;
 position = "{614, 460}";
 }
@@ -41932,6 +42068,10 @@ position = "{154, 350}";
 {
 name = bottom;
 position = "{586, 0}";
+},
+{
+name = caret_1;
+position = "{288.333, 0}";
 },
 {
 name = top;
@@ -42067,6 +42207,10 @@ name = bottom;
 position = "{423, 0}";
 },
 {
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
 name = center;
 position = "{443, 335}";
 },
@@ -42180,6 +42324,10 @@ name = bottom;
 position = "{439, 0}";
 },
 {
+name = caret_1;
+position = "{288.333, 0}";
+},
+{
 name = center;
 position = "{455, 350}";
 },
@@ -42285,6 +42433,12 @@ color = 10;
 glyphname = fi;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -42298,6 +42452,12 @@ layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
 width = 582;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -42322,6 +42482,12 @@ color = 10;
 glyphname = fl;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+}
+);
 components = (
 {
 name = f_l;
@@ -42331,6 +42497,12 @@ layerId = "CF31647D-EA7E-42DE-ACE7-E9318D6117AA";
 width = 583;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{288.333, 0}";
+}
+);
 components = (
 {
 name = f_l;
