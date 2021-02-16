@@ -11,7 +11,7 @@ More info available on the [project website](https://brygada1918.eu/?lang=en).
 
 Thanks to support of Google Brygada 1918 was further expanded in 2020 with Vietnamese diacritics and adapted for Variable technology. [Brygada 1918 on Google Fonts](https://fonts.google.com/specimen/Brygada+1918).
 
-<h5>Build the fonts<h5>
+<h5>Build the fonts</h5>
   
 When you push modifications in the sources directory on the main branch, github will perform some actions on these changes: It builds the fonts for you and check with Fontbakery if the builds pass Google Fonts Quality Assurance Checks. If you want to download the package containg the fonts and the report, got to the [Action tab](https://github.com/kosmynkab/Brygada-1918/actions), click on the last action (which carries the name of your last commit) and there you will find a package to download (Brygada1918_Fonts) in the "Artifacts" section.
 
