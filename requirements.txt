@@ -29,7 +29,7 @@ fontparts==0.9.7          # via babelfont
 fontpens==0.2.4           # via defcon
 fonttools[lxml,ufo,unicode]==4.18.2  # via babelfont, booleanoperations, cffsubr, compreffor, cu2qu, defcon, fontmake, fontmath, fontparts, gftools, glyphslib, statmake, ufo2ft, ufolib2, vttlib
 fs==2.4.12                # via fonttools
-gftools==0.6.1            # via -r requirements.in
+git+https://github.com/googlefonts/gftools  # via -r requirements.in
 glyphslib==5.3.1          # via babelfont, fontmake, gftools
 idna==2.10                # via requests
 importlib-metadata==1.7.0  # via statmake
